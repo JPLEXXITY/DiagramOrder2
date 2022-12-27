@@ -1,4 +1,4 @@
-<h1 align="center">Практические и лабораторные по диаграммам последовательности
+<h1 align="center">Практические и лабораторные по диаграммам прецендентов 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студент группы ИВ1к-21 Гритченко Сергей</h3>
 <ul>
